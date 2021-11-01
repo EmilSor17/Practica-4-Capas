@@ -1,0 +1,42 @@
+C:\Users\emils\source\repos\Taller\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\emils\source\repos\Taller\Presentation\bin\Debug\Presentation.exe
+C:\Users\emils\source\repos\Taller\Presentation\bin\Debug\Presentation.pdb
+C:\Users\emils\source\repos\Taller\Presentation\bin\Debug\Aplication Repository.dll
+C:\Users\emils\source\repos\Taller\Presentation\bin\Debug\Data Repository.dll
+C:\Users\emils\source\repos\Taller\Presentation\bin\Debug\Aplication Repository.pdb
+C:\Users\emils\source\repos\Taller\Presentation\bin\Debug\Data Repository.pdb
+C:\Users\emils\source\repos\Taller\Presentation\obj\Debug\1 - Presentation.csprojAssemblyReference.cache
+C:\Users\emils\source\repos\Taller\Presentation\obj\Debug\Presentation.Form1.resources
+C:\Users\emils\source\repos\Taller\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\emils\source\repos\Taller\Presentation\obj\Debug\1 - Presentation.csproj.GenerateResource.cache
+C:\Users\emils\source\repos\Taller\Presentation\obj\Debug\1 - Presentation.csproj.CoreCompileInputs.cache
+C:\Users\emils\source\repos\Taller\Presentation\obj\Debug\1 - Presentation.csproj.CopyComplete
+C:\Users\emils\source\repos\Taller\Presentation\obj\Debug\Presentation.exe
+C:\Users\emils\source\repos\Taller\Presentation\obj\Debug\Presentation.pdb
+C:\Users\emils\source\repos\Taller\Presentation\bin\Debug\Domain Repository.dll
+C:\Users\emils\source\repos\Taller\Presentation\bin\Debug\Domain Repository.pdb
+C:\Users\emils\source\repos\Taller\Presentation\obj\Debug\Presentation.fCarros.resources
+C:\Users\emils\source\repos\Taller\Presentation\obj\Debug\Presentation.fOrdenes.resources
+C:\Users\emils\source\repos\Taller\Presentation\obj\Debug\Presentation.fMechanicals.resources
+C:\Users\emils\source\repos\Taller\Presentation\obj\Debug\Presentation.fClientes.resources
+C:\Users\emils\source\repos\Taller\Presentation\obj\Debug\Presentation.fServicios.resources
+C:\Users\emils\source\repos\Taller\Presentation\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\emils\source\repos\Taller\Presentation\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\emils\source\repos\Taller\Presentation\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\emils\source\repos\Taller\Presentation\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\emils\source\repos\Taller\Presentation\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\emils\source\repos\Taller\Presentation\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\emils\source\repos\Taller\Presentation\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\emils\source\repos\Taller\Presentation\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\emils\source\repos\Taller\Presentation\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\emils\source\repos\Taller\Presentation\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\emils\source\repos\Taller\Presentation\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\emils\source\repos\Taller\Presentation\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\emils\source\repos\Taller\Presentation\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\emils\source\repos\Taller\Presentation\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\emils\source\repos\Taller\Presentation\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\emils\source\repos\Taller\Presentation\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\emils\source\repos\Taller\Presentation\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\emils\source\repos\Taller\Presentation\bin\Debug\stdole.dll
+C:\Users\emils\source\repos\Taller\Presentation\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\emils\source\repos\Taller\Presentation\obj\Debug\Presentation.freport.resources

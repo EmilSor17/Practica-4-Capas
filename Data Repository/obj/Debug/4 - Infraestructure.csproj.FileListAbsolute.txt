@@ -1,0 +1,9 @@
+C:\Users\emils\source\repos\Taller\Data Repository\bin\Debug\Data Repository.dll
+C:\Users\emils\source\repos\Taller\Data Repository\bin\Debug\Data Repository.pdb
+C:\Users\emils\source\repos\Taller\Data Repository\bin\Debug\Domain Repository.dll
+C:\Users\emils\source\repos\Taller\Data Repository\bin\Debug\Domain Repository.pdb
+C:\Users\emils\source\repos\Taller\Data Repository\obj\Debug\4 - Infraestructure.csprojAssemblyReference.cache
+C:\Users\emils\source\repos\Taller\Data Repository\obj\Debug\4 - Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\emils\source\repos\Taller\Data Repository\obj\Debug\4 - Infraestructure.csproj.CopyComplete
+C:\Users\emils\source\repos\Taller\Data Repository\obj\Debug\Data Repository.dll
+C:\Users\emils\source\repos\Taller\Data Repository\obj\Debug\Data Repository.pdb
